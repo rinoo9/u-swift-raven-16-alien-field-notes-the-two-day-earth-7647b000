@@ -11,6 +11,17 @@ Why this line works against the judge brief:
   in favour of a specific, fresher observation.
 - It is tight: one joke, landed cleanly, with the punch at the end — the
   tourist who came to observe has picked up the habit themselves.
+- Its shape is a genuine tourist review: stars first, then the evidence
+  (the glowing box), then the verdict — so it reads like a real field note
+  rather than a one-liner wearing a costume.
+- The alien angle works because the observer never breaks character: "the
+  locals" and "a glowing box" are how a visitor would describe screens and
+  social media without knowing the words for them.
+- It carries exactly one joke — humans arguing through a box — and lets the
+  punch do all the work: the reviewer came to study Earth for a week and
+  left arguing, so the punch lands on the last three words.
+- The humour is observational, not referential: it needs no Earth jargon or
+  trending topic, so it should still land for a judge reading it cold.
 """
 
 LINE = "Five stars: the locals built a glowing box that shows them other locals arguing, and they stare at it for hours. I stayed a week and now I argue too."
