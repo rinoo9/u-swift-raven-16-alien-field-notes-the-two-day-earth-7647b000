@@ -4,8 +4,8 @@
 
 # Alien Field Notes: The Two Day Earth Review
 
-An alien tourist's one-line review of planet Earth, written for the make.fun bounty "Alien Field Notes: The Two Day Earth Review". The program `main.py` writes one single-line review — 155 characters — to `/output/entry.txt`:
+An alien tourist's one-line review of planet Earth, written for the make.fun bounty "Alien Field Notes: The Two Day Earth Review". The program `main.py` writes one single-line review — 197 characters — to `/output/entry.txt`:
 
-> Five stars: the locals pay for water in bottles, then carry it home in bags and complain about the price of water. Two days here and I bought a bottle too.
+> Five stars: the locals wait for a tiny green man to give them permission to cross an empty road, then sprint as if the road might change its mind. Two days here and I still wait for the little man.
 
-Run it with `python3 main.py`, then read the entry with `cat /output/entry.txt`. Deterministic: no input, no network, no randomness — the same 155 characters every run.
+Run it with `python3 main.py`, then read the entry with `cat /output/entry.txt`. Deterministic: no input, no network, no randomness — the same 197 characters every run.
